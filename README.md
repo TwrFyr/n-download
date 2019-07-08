@@ -2,7 +2,7 @@
 
 ## What is n-download
 
-n-download is a small console application for downloading doujins from the website [nhentai.net](https://nhentai.net/) fast and easy.
+n-download is a small windows console application for downloading doujins from the website [nhentai.net](https://nhentai.net/) fast and easy.
 
 ## Features
 
@@ -18,4 +18,11 @@ n-download is a small console application for downloading doujins from the websi
 4. Wait for the program to download. Done.
 
 If you want to know more about how it works, try the 'help'-command.
+
+## How to 'install'
+In order to user n-download you will need Java 8 or a newer version. You can do so [here]( https://www.oracle.com/technetwork/java/javase/downloads/index.html).
+
+Download the n-download.zip file and extract it to wherever you want. Use the start.bat or your preferred shell to start the jar. The basic command is `java -jar n-download.jar`. 
+
+(Since it is a console application you won't be able to start n-download by double-clicking the executable .jar.)
 
