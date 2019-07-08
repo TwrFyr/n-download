@@ -1,1 +1,2 @@
-https://github.com/TwrFyr/n-downloader/
+For more information visit:
+https://github.com/TwrFyr/n-download
