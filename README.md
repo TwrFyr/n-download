@@ -1,3 +1,6 @@
+# NOTICE
+`n-download` has been discontinued, since I am currently working on a better version. The current release version is broken, because the html structure of [nhentai](https://nhentai.net/) changed. Check out the new project [n-hen.py](https://github.com/TwrFyr/n-hen.py).
+
 # n-download
 
 ## What is n-download
